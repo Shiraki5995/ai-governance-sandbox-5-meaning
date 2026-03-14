@@ -1,0 +1,7 @@
+{
+  "node_id": "Node5",
+  "department": "Manufacturing Department",
+  "task_name": "Inventory Optimization",
+  "process_description": "Optimize raw material inventory to prevent both overstock and stockouts.",
+  "ccc_relation": "DIO"
+}

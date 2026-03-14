@@ -1,0 +1,7 @@
+{
+  "node_id": "Node7",
+  "department": "Sales Department",
+  "task_name": "Sales Entry",
+  "process_description": "Register sales data of shipped products into the core system.",
+  "ccc_relation": null
+}

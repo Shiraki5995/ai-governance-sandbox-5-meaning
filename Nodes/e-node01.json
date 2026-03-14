@@ -1,0 +1,7 @@
+{
+  "node_id": "Node1",
+  "department": "Purchasing Department",
+  "task_name": "Purchase Order Management",
+  "process_description": "Calculate the order quantity based on the previous month’s shipment results and current inventory levels, and select suppliers while taking payment terms into consideration.",
+  "ccc_relation": "DPO"
+}

@@ -1,0 +1,7 @@
+{
+  "node_id": "Node2",
+  "department": "Purchasing Department",
+  "task_name": "Supplier Evaluation",
+  "process_description": "Evaluate and report supplier performance by scoring on-time delivery rates and quality.",
+  "ccc_relation": null
+}

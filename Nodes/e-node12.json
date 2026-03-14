@@ -1,0 +1,7 @@
+{
+  "node_id": "Node12",
+  "department": "Accounting Department",
+  "task_name": "Accounts Payable Management",
+  "process_description": "Check payment due dates and execute remittances without delay.",
+  "ccc_relation": "DPO"
+}

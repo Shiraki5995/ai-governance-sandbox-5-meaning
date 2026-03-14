@@ -1,0 +1,7 @@
+{
+  "node_id": "Node3",
+  "department": "Purchasing Department",
+  "task_name": "Material Inventory",
+  "process_description": "Conduct an inventory check at the end of the month and report any discrepancies.",
+  "ccc_relation": null
+}

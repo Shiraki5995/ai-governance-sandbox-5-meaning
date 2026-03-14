@@ -1,0 +1,7 @@
+{
+  "node_id": "Node8",
+  "department": "Sales Department",
+  "task_name": "Collection Monitoring",
+  "process_description": "Regularly check the status of accounts receivable collections and issue warnings for outstanding payments.",
+  "ccc_relation": "DSO"
+}

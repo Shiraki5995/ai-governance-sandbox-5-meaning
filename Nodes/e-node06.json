@@ -1,0 +1,7 @@
+{
+  "node_id": "Node6",
+  "department": "Manufacturing Department",
+  "task_name": "Production Record Entry",
+  "process_description": "Enter the quantity of manufactured products and the number of defective items.",
+  "ccc_relation": null
+}
